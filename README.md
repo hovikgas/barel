@@ -1,0 +1,2 @@
+# barel
+Wordle in Armenian
